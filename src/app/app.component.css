@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+    background-color: bisque;
+}
+.container-fluid{
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%,-50%);
+    border-bottom: chartreuse;
+}
+.form-group{
+width: 100%;
+overflow: hidden;
+font-size: 20px;
+padding: 8px 0;
+margin:  8px 0;
+
+}
+
+
+
+
